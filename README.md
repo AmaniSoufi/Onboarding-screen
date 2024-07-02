@@ -1,5 +1,5 @@
 # onboarding_page
-![Colorful Freelancer YouTube Thumbnail (9)](https://github.com/Amani454/Onboarding-screen/assets/144737903/466791f4-0958-4cc3-b324-4a8fd5e25659)
+
 
 
 A new Flutter project.
