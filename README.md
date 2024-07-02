@@ -1,4 +1,5 @@
 # onboarding_page
+![Colorful Freelancer YouTube Thumbnail (9)](https://github.com/Amani454/Onboarding-screen/assets/144737903/d862f695-a115-48c4-a8c4-cc49a20c0725)
 
 
 
